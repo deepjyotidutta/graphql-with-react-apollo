@@ -1,4 +1,4 @@
-Technolog Stack:
+Technology Stack:
 
 Frontend:
 
