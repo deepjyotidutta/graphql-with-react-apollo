@@ -20,7 +20,7 @@ In the project directory, run:
 #### `yarn add apollo-boost react-apollo graphql`
 
 
-## DEVELOPMENT STEPS - BACKEND - Reusing an already available backend
+## DEVELOPMENT STEPS - BACKEND - Reusing an already available Node backend
 
 
 #### `curl https://codeload.github.com/howtographql/react-apollo/tar.gz/starter | tar -xz --strip=1 react-apollo-starter/server`
