@@ -10,13 +10,18 @@ Backend:
     graphql-yoga: Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
     Prisma: Open-source GraphQL API layer that turns your database into a GraphQL API
 
-## STEPS
+## DEVELOPMENT STEPS - FRONTEND
 
 In the project directory, run:
 
 ### `yarn create react-app hackernews-react-apollo`
-### cd hackernews-react-apollo
-### yarn start
+### `cd hackernews-react-apollo`
+### `yarn start`
+### `yarn add apollo-boost react-apollo graphql`
+
+## DEVELOPMENT STEPS - BACKEND - Reusing an already available backend
+
+### `curl https://codeload.github.com/howtographql/react-apollo/tar.gz/starter | tar -xz --strip=1 react-apollo-starter/server`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
