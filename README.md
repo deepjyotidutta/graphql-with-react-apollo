@@ -1,10 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technolog Stack:
+Frontend:
 
-## Available Scripts
+    React: Frontend framework for building user interfaces
+    Apollo Client 2.1: Production-ready, caching GraphQL client
 
-In the project directory, you can run:
+Backend:
 
-### `yarn start`
+    graphql-yoga: Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+    Prisma: Open-source GraphQL API layer that turns your database into a GraphQL API
+
+## STEPS
+
+In the project directory, run:
+
+### `yarn create react-app graphql-with-react-apollo`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
