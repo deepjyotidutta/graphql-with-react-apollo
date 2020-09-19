@@ -14,7 +14,9 @@ Backend:
 
 In the project directory, run:
 
-### `yarn create react-app graphql-with-react-apollo`
+### `yarn create react-app hackernews-react-apollo`
+### cd hackernews-react-apollo
+### yarn start
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
